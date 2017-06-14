@@ -1,0 +1,6 @@
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\salman\Downloads\t-3\Symmetric\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
